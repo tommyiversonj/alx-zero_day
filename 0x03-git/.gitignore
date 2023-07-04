@@ -1,5 +1,0 @@
-# ignore .log file
-
-# This file is never to push to main repo
-
-*.log
